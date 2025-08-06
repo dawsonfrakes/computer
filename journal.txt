@@ -1,3 +1,46 @@
+=== Simulators suck. === August 6, 2025
+
+I have tried KiCAD, TinkerCAD, EasyEDA, Fritzing, and a few more. The only thing I've liked so
+far is CircuitVerse. You don't have to sign in and your circuits immediately show their results.
+This is nice, but I want something 3D so I can design my entire computer and only zoom into the
+detail of a circuit when you need to. I downloaded the 3D model of my specific protoboard and
+threw it into Godot, duplicated it a few times, and was able to see my design doesn't work.
+Why is it that a game engine is better for circuit design and 3D component placement than a
+3D modeling or circuit simulator software?
+
+Something like Sabastian Lague's logic simulator in a 3D environment is exactly what I want.
+More akin to Minecraft redstone but without the issue of heavy crosstalk constraints.
+I wish this software already existed. I can't believe it doesn't. But I also don't want to be
+the one to make it, and maybe no one else does either?
+
+Quick tangent on schooling incoming.
+Please don't send your children to prison. If you attempt to justify locking your children
+inside a place where they have no creative/physical freedom/agency for 1/3 of their childhood, don't.
+And don't get me started on university. DO NOT PAY FOR PUBLICLY AVAILABLE KNOWLEDGE.
+Do not allow your state/province/country to pay your tuition. Do not allow your parents. Spend the 4-8 years
+after managing to survive high school years making education better for future students,
+rather than trying to get someone else to spoonfeed you knowledge in exchange for money.
+
+Books suck too. Especially ones on paper since *they* can choose whatever price they want for distribution.
+If you're in the know, you probably haven't ever paid for books since they're free online if you
+know where to look. If you don't know, Reddit or StackExchange can probably provide the answer.
+I would tell you but apparently it's illegal in my country. Yes, that's right. Access to digitially
+accessible bits of information are not allowed to be used by you. Copyrights and intellectual property
+are just as big a scam as university. Knowledge should be free, open to critique, and citable by new
+works. The Internet should have made people keenly aware of this. But people are slow to change.
+
+The joy I feel when I complete a working circuit is nearly unmatched in my life.
+I don't think I've ever had a joyous experience while programming modern machines
+but just seeing a single red LED blink on and off can brighten my day.
+I'm excited to see the Centre for Computing History in Cambridge when on my trip to
+London for the D Programming Language Conference. I don't really use D much any more but
+needed an excuse to travel to London/Cambridge/Bletchley/Nottingham.
+
+ChatGPT just clarified to me what I want. A 32-bit system designed with paper and pencil, that can
+start by running a 3D renderer which I can use for circuit design like I did in Godot. But this
+would allow the machine to bootstrap its own next version/componentry. This is my ideal machine.
+We shall make it so.
+
 === Hello, world. === August 5, 2025
 
 I need a journal. This is said journal. Ideally it will be structured like Jai's CHANGELOG.txt where
