@@ -1,0 +1,77 @@
+=== Hello, world. === August 5, 2025
+
+I need a journal. This is said journal. Ideally it will be structured like Jai's CHANGELOG.txt where
+every piece of information related to the project is in one greppable file. I wouldn't mind interspersing
+code/diagrams/images/etc. into said file, so it might not remain a .txt file as it currently is,
+but potentially something more like an org-mode file. Hopefully my writing skills will improve as well.
+
+What is this project? It's meant to be my answer to the question, "What is a computer?".
+It should walk you from basic boolean logic and hardware components to how an individual pixel
+makes its way into a larger image. It should be visible to the user what's happening, and even
+self-explanatory since it can show its own state as a debugging measure.
+
+I recently wrote something about how computers are introduced incorrectly to people.
+If someone tells you, "it's just binary, ones and zeroes." -- tell them that's not helpful.
+First of all, computers in the early 2000s run on electrical flow, which can either be present or not.
+The mathematical notation used to describe such phenomena is often binary, or base two (the digits zero and one).
+
+This is not a book. It is not meant to be read like a book. It is a collection of notes and musings
+to help me remember what to eventually distill down into a more comprehensible form (i.e. a book).
+I am going to be rearranging paragraphs constantly until it is in a form I like. I am hard to please,
+however, so it might never be complete, and will never be perfect.
+
+I have a big problem. I don't want to use our fancy machinery to build this computer.
+I want to return to Woz's time, learn to solder, and build it "like a real man" (i use arch btw).
+This presents a difficult situtation, as I also want a powerful machine. At least a 32-bit address
+space at a minimum (potentially 64-bit some day?).
+
+Most computers built in the style of mine are 8-bits. Some go as far as 16-bit. 32-bit is pretty much unheard of.
+And why would I push it? Because I've seen what can be done with a 32-bit machine. It's vastly more capable than
+what even the best programmers could push out of a 16-bit machine. In my opinion, 64-bits came too quickly
+to be appreciated by programmers who instead take it for granted. Project leads phased out 32-bit machines as
+quickly as they could to move on to the next technology. But what was so wrong with 32-bit machines? Almost all
+calculations I perform using my computer are 32-bit, which is significatly less complex than a 64-bit machine.
+
+I don't know if I believe what I just typed. I'm enjoying the process of typing more than the thinking
+required to validate my information. This is a nice keyboard. Thanks, ASUS.
+
+Just gonna leave a list of people you should check out here:
+  Bret Victor - For when you need inspiration to keep going down the rabbit hole
+  Casey Muratori - To keep you grounded in reality
+
+These people represent two sides of the same coin. Bret comes from the creative/artistic side,
+where Casey comes from the engineering/science side. Both are neccessary, both are fun.
+Both are software guys? Perhaps I need someone good at hardware to put in that list?
+
+Thank you for coming to my TED Talk (journal entry #1). I used to hate writing but in a free-form, no-expectations
+environment, it's quite fun! Why can't teachers just tell you to write about whatever you find interesting?
+
+As much as I hate Windows, I do agree with Bill Gates that most people don't need more than 640kB of memory.
+Only those doing things with large amounts of data (e.g. LLMs) are going to need more space than that; or
+even offloading to disk and only keeping data being processed in memory could go a long way.
+
+So what are my requirements? No software-designed PCBs or EEPROM flashers. Purely physical input only.
+Custom instruction set, operating system, programs, etc. In fact, these need to be re-evaluated each step of
+the way, no half measures. Do we need instruction sets, "operating" "systems", programs? Perhaps. But we should
+question everything; improve what can be improved.
+
+What I actually want to make is a game like H1Z1; fully networked, three-dimensional third-person shooter.
+Unfortunately, I can't stand any of the current operating systems. So I need an operating system. Well then
+I have to write a bootloader to load my operating system by interfacing with BIOS/UEFI (x86 machines) which
+comes with loads of standards (or even worse, no standards for BIOS) which just overcomplicate in order
+to provide a general purpose computing machine that ends up solving no problems rather than all problems.
+
+Which brings me to this project. No code running underneath mine. Not that I believe my code is better than
+what the original kernel hackers at Bell Labs (or even Microsoft, yikes) made. I just want to know how it works.
+And no systems today (except TempleOS?) were built with the intention of sharing that knowledge efficiently. A computer has the knowledge
+of its subsystems, and it should show them to you in a meaningful and expressive manner!
+
+Look at that. No diagrams, no code, no links. That's probably not how the rest of this document will go, but thanks to
+.txt files being incredibly robust, it can handle blocks of text perfectly fine! Okay I need to go design some circuits
+on paper with pencil. Goodbye.
+
+I originally planned to do a "wire wrap" instead of soldering because it seemed efficient and the results were beautiful.
+Unfortunately it's more expensive to order "wire-wrap wire" and "long pin IC sockets" than to purchase and learn how
+to use a soldering iron. I'm not sure which is the older technique. Now that the world has gone the way of solder it
+certainly feels like wire wrapping is the old school method, but perhaps it's the newcomer of the bunch considering how
+long welding has been a profession.
