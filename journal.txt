@@ -41,6 +41,26 @@ start by running a 3D renderer which I can use for circuit design like I did in 
 would allow the machine to bootstrap its own next version/componentry. This is my ideal machine.
 We shall make it so.
 
+*A few hours later.*
+
+I made a bunch of circuits finally work in Minecraft. It's literally more difficult than real world
+circuits because you have to deal with wires crossing over each other. Making a compact XOR gate
+was easily the hardest. But thanks to "target blocks", they got a lot smaller. I also made more
+circuits in Sabastian Lague's Digital Logic Sim. Somehow one guy made a better circuit simulator
+than millions of professionals who have existed in the electronics field for one hundred years,
+go figure.
+
+My solder should come in tomorrow so I can stop using janky breadboard connections to test my
+real circuits. It should occur rather quickly the realization of the components I'm missing for
+this project. I have no idea how long it will take to get back to a modern-like programming environment,
+or if I even want to. Why would I try to get back into a situtation I don't enjoy? Well, hopefully
+I'll have it revealed to me as I go along what a better way could be.
+
+It would be nice to have a mentor. Or a friend to talk about my journey with. I've tried reaching
+out to people but aside from an interest in the end result, no one wants to be a part of the process
+with me. Perhaps as I have no credentials or history of success, why would someone want to help me?
+I guess all I can do is try to succeed and hope someone in the future benefits from my efforts.
+
 === Hello, world. === August 5, 2025
 
 I need a journal. This is said journal. Ideally it will be structured like Jai's CHANGELOG.txt where
