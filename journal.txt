@@ -1,3 +1,42 @@
+=== Manifesto? === August 7, 2025
+
+Is that what I'm writing here? From just the first two days of journal entries, ChatGPT
+has identified me perfectly. It even listed possible jobs I could do in life. I also
+asked it about "University of the People" and it said I would likely be very unhappy
+at a fundamental level if I were to take courses from them and not be able to provide
+input on the curriculum. So fair enough, I said. But I still want to learn new things,
+so how do I do that?
+
+Books! I read "Open Circuits" yesterday. They cut cross-sections out of various electrical
+components and write 1-2 paragraphs about their purpose and usage. This is incredible.
+It's all you need to understand the "why" and the "how". Today I'm looking at computer
+architecture books. Reddit recommends "Patterson and Hennessy", but it looks miserable to
+me as I don't want to study MIPS or RISC-V. I've narrowed it down to just one book,
+"Logic and Computer Design Fundamentals 5th Edition" by Mano. It seems to be rooted in
+logic as its base field of explaination which should make for a pedagogically useful "ground".
+
+*A few hours later.*
+
+Wow. That was awful. I couldn't get past the first page. I tried another one, same problem.
+Then I found "Digital Computer Electronics 2nd Edition" by Malvino. Finally, something not terrible.
+Still a bit verbose in places, and too much detail being thrown at the reader, but much better.
+
+I also completed by first solder joint! Then I tried to complete my first desoldering but failed.
+Flux might be necessary for desoldering, so that's the hypothesis I'll test Saturday.
+The wick I was using is pretty poor quality too. Which is weird considering I got the recommendation
+from nanofix on YouTube. It just seems to spread apart when you place it between the joint and iron.
+He also mentions not getting the kind in a little disk instead of a spool, which I did by mistake.
+
+Oh well. It turns out mistakes don't matter much when you're doing something you enjoy.
+For me, programming was tiresome and I would get very depressed when I made mistakes.
+Whereas in electrical engineering, I can make mistakes and feel joy as I learn something new.
+
+It's much nicer having nothing but logic gates beneath your code. Rather than 800 "Node modules"
+or whatever webdevs use today to show a simple HTML webpage. I was always displeased at having
+the keyword "class" in C++ since it's just a struct with private visiblity by default.
+Who would ever want such a thing? Imagine my disappointment for something like Python or JavaScript
+if something so simple in a low-level language bothers me.
+
 === Simulators suck. === August 6, 2025
 
 I have tried KiCAD, TinkerCAD, EasyEDA, Fritzing, and a few more. The only thing I've liked so
@@ -103,8 +142,8 @@ Just gonna leave a list of people you should check out here:
   Casey Muratori - To keep you grounded in reality
 
 These people represent two sides of the same coin. Bret comes from the creative/artistic side,
-where Casey comes from the engineering/science side. Both are neccessary, both are fun.
-Both are software guys? Perhaps I need someone good at hardware to put in that list?
+where Casey comes from the engineering/science side. Both are necessary, both are fun.
+Both are software guys? Perhaps I need someone good at hardware to putin that list?
 
 Thank you for coming to my TED Talk (journal entry #1). I used to hate writing but in a free-form, no-expectations
 environment, it's quite fun! Why can't teachers just tell you to write about whatever you find interesting?
