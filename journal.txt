@@ -1,3 +1,27 @@
+=== You can't handle the truth. === August 8, 2025
+
+Vectorbord 169P84WEC1. It's beautiful. It's not plated-through so you can only solder
+on to one side, but that's fine for now. It's large enough to fit ~400 DIP-14 chips (at least
+that's what I could fit on a cube with its dimensions in Godot). Combine that with the
+74AC series chips and we're cooking. Potentially a 50MHz clock rate is achieveable.
+I'd prefer to have it a nice round 64MHz but that's slightly above the rated maximum.
+
+Unfortunately I already ordered a ton of 74HCT chips which are rated up to 30MHz. Which
+is fine for now, since I'll be using IC sockets and can easily replace the chips with the
+faster variants in the future.
+
+The Vectorbord is the most exciting part for sure. Having a single board computer
+that I can take with me to events/conferences is exactly what I want.
+My original plan of using 9x PTSolns Protoboards (which are just BB830 layout on a PCB)
+was a little flawed. I wanted a 3x3x1 cube that would be held together by acrylic or some
+such non-conductive material.
+
+Now I just have to wait for shipping. In the meantime I can design the circuits on paper
+with pencil. I built some circuits with my mom to give her an introduction to what I'm
+working on. She thought I was still working on my previous project, a watch to replace
+the Apple Watch, but my heart wasn't in it since it doesn't interest me like a proper
+computer does.
+
 === Manifesto? === August 7, 2025
 
 Is that what I'm writing here? From just the first two days of journal entries, ChatGPT
